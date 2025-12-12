@@ -1,0 +1,20 @@
+location: world:557.500:69.000:854.500
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#00FF5A&lI&#0FFF68&ln&#1FFF76&lf&#2EFF83&lo &7&l| &f&lSpawn'
+    height: 0.3
+  - content: '&7Este es el spawn, una zona &azegura,'
+    height: 0.3
+  - content: '&7donde puedes aprender como funciona el server,'
+    height: 0.3
+  - content: '&7o lo que sea, puedes volver aquí'
+    height: 0.3
+  - content: '&7usando &b&o/spawn'
+    height: 0.3
+  actions: {}

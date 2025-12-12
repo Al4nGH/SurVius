@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.59.112.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765333224651
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1765503321528
+  login: 1765493711932
+money: '0.0'
+last-account-name: A7Mango
+logoutlocation:
+  world: 9ee61a61-a706-4632-bd12-4d8d4f7bca49
+  world-name: world
+  x: 584.5632340846964
+  y: 67.0
+  z: 850.9286597438545
+  yaw: -112.5625
+  pitch: 24.513038635253906
+lastlocation:
+  world: 9ee61a61-a706-4632-bd12-4d8d4f7bca49
+  world-name: world
+  x: 0.15995133384548724
+  y: 94.15760086947063
+  z: 4.263538491872736
+  yaw: -2.4961748123168945
+  pitch: 19.93027114868164

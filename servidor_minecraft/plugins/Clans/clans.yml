@@ -1,0 +1,16 @@
+clans:
+  clanrandomxd:
+    leader: A7Mango
+    co_leader: []
+    members: []
+    prefix: ClanRandomXD
+    pvp: true
+    joins: true
+    balance: 0
+    max_members: 50
+    prefix_change: 1
+    enemies: []
+    allies: []
+    kills: 0
+    deaths: 1
+    chest_size: 9
